@@ -1,0 +1,26 @@
+# ========== 基础信息 ==========
+title: "PAB's Blog"
+subtitle: "记录生活与技术"
+description: "Plusjia Bondrewd 的个人博客"
+author: "Plusjia Bondrewd"
+language: zh-CN
+
+# ========== 首页封面配置 ==========
+homeConfig:
+  coverConfig:
+    enableCover: true
+    enablePreload: true
+  fixedCover: false
+
+# ========== 封面图片列表（必须至少6张）==========
+image_list:
+  - https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1920
+  - https://images.unsplash.com/photo-1469474968028-56623f02e42e?w=1920
+  - https://images.unsplash.com/photo-1447752875215-b2761acb3c5d?w=1920
+  - https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=1920
+  - https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=1920
+  - https://images.unsplash.com/photo-1472214103451-9374bd1c798e?w=1920
+
+# 关闭反仿冒网站检测
+experiments:
+  antiFakeWebsite: false

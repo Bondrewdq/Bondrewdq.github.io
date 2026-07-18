@@ -1,0 +1,16 @@
+# 基础信息（修复 SXEC 201 警告）
+title: "我的博客"
+subtitle: "记录生活与技术"
+description: "一个基于 Hexo + ShokaX 的个人博客"
+author: "博主"
+language: zh-CN
+timezone: Asia/Shanghai
+
+# 封面图片配置（至少 6 张，可用网络图片或本地图片）
+image_list:
+  - https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1920
+  - https://images.unsplash.com/photo-1469474968028-56623f02e42e?w=1920
+  - https://images.unsplash.com/photo-1447752875215-b2761acb3c5d?w=1920
+  - https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=1920
+  - https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=1920
+  - https://images.unsplash.com/photo-1472214103451-9374bd1c798e?w=1920
