@@ -21,15 +21,11 @@ jobs:
         with:
           version: 9
           
-      - name: Cache dependencies
-        uses: actions/cache@v4
-        with:
-          path: node_modules
-          key: ${{ runner.os }}-node-${{ hashFiles('pnpm-lock.yaml') }}
-          
       - name: Install dependencies
-        run: pnpm install
-        
+        run: |
+          npm install -g pnpm
+          pnpm install --no-frozen-lockfile
+          
       - name: Build
         run: |
           pnpm dlx hexo clean
