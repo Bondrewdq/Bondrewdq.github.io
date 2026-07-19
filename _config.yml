@@ -7,13 +7,13 @@ title: PAB's Blog
 subtitle: ''
 description: '记录生活与技术'
 keywords:
-author: Plusjia Bondrewd
+author: Plusjia&Bondrewd
 language: zh-CN
 timezone: Asia/Shanghai
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://bondrewd.com
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -185,3 +185,9 @@ feed:
     output: "feed.json"
 
 
+
+# GitHub Pages 部署
+deploy:
+  type: git
+  repo: https://github.com/Bondrewdq/Bondrewdq.github.io.git
+  branch: main
