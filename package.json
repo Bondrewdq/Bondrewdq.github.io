@@ -41,7 +41,7 @@
     "hexo-util": "^3.3.0",
     "instantsearch.js": "^4.106.0",
     "js-yaml": "^4.3.0",
-    "katex": "^0.16.47",
+    "katex": "^0.18.1",
     "mouse-firework": "^0.1.1",
     "nyx-player": "^0.1.1",
     "shokax-uikit": "0.0.5",
