@@ -40,7 +40,7 @@
     "hexo-theme-shokax": "^0.5.4",
     "hexo-util": "^3.3.0",
     "instantsearch.js": "^4.106.0",
-    "js-yaml": "^4.3.0",
+    "js-yaml": "^5.3.0",
     "katex": "^0.16.47",
     "mouse-firework": "^0.1.1",
     "nyx-player": "^0.1.1",
